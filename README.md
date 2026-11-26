@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/ivanhashmi"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Ivan%20Hashmi&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Electrical%20Engineering%20%C2%B7%20Full-Stack%20%26%20AI%20Builder&descSize=24&descAlignY=64" width="100%" alt="Ivan Hashmi, Electrical Engineering student and full-stack and AI builder" /></a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+yappi%2C+an+ai+language+tutor.;%3E+full-stack+web+%2B+esp8266+hardware.;%3E+500+days+of+spanish%2C+b2+exam+next." width="100%" alt="Building Yappi, full-stack web and ESP8266 hardware, learning Spanish" />
+  <a href="https://github.com/ivanhashmi"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Ivan%20Hashmi&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Electrical%20Engineering%20Student%20%C2%B7%20Full-Stack%20Developer&descSize=24&descAlignY=64" width="100%" alt="Ivan Hashmi, Electrical Engineering student and full-stack developer" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+electrical+engineering%2C+class+of+2027.;%3E+full-stack+web+%2B+c%2B%2B+dsa+%2B+embedded.;%3E+looking+for+internships+and+entry-level+roles." width="100%" alt="Electrical engineering, class of 2027. Full-stack web, C++ DSA, embedded. Looking for internships and entry-level roles." />
 </p>
 
 <p align="center">
@@ -19,11 +19,13 @@
 
 ```python
 me = {
-    "does":     "Electrical Engineering student who builds full-stack + AI apps",
-    "based":    "New Delhi, India",
-    "degree":   "B.Tech at Jamia Millia Islamia (2027)",
-    "speaks":   ["English", "Hindi", "Spanish (learning, B2 exam coming up)"],
-    "pronouns": "he/him",
+    "does":      "Electrical Engineering student, full-stack + embedded projects",
+    "practices": "DSA in C++",
+    "looking":   "Internships and entry-level software roles",
+    "based":     "New Delhi, India",
+    "degree":    "B.Tech at Jamia Millia Islamia (2027)",
+    "speaks":    ["English", "Hindi", "Spanish (learning, B2 exam coming up)"],
+    "pronouns":  "he/him",
 }
 ```
 
@@ -34,7 +36,7 @@ me = {
   <tr><td><b>Year</b></td><td>what happened</td></tr>
   <tr><td><b>2020</b></td><td>Finished Class 10 at Delhi Public School, Bokaro Steel City (95%).</td></tr>
   <tr><td><b>2022</b></td><td>Finished Class 12 at DPS Bokaro (89.6%), then started B.Tech in Electrical Engineering at Jamia Millia Islamia.</td></tr>
-  <tr><td><b>2026</b></td><td>Joined Kaksha Live as an intern and built Yappi to learn Spanish by actually speaking it.</td></tr>
+  <tr><td><b>2026</b></td><td>Interned at Kaksha Live (June to August) and built Yappi to practice Spanish by actually speaking it.</td></tr>
   <tr><td><b>2027</b></td><td>Graduating, with a Spanish B2 exam on the way.</td></tr>
 </table>
 </details>
@@ -43,8 +45,8 @@ me = {
 
 <table>
   <tr>
-    <td width="36%" valign="top"><b>Software Development Intern</b><br /><sub>Kaksha Live, New Delhi · June 2026 to Present</sub></td>
-    <td valign="top">Working with senior engineers in an agile team on features, APIs, and bug fixes, and learning the codebase through documentation and code reviews.</td>
+    <td width="36%" valign="top"><b>Software Development Intern</b><br /><sub>Kaksha Live, New Delhi · June 2026 to August 2026</sub></td>
+    <td valign="top">Worked with senior engineers in an agile team on features, APIs, and bug fixes, and learned the codebase through documentation and code reviews.</td>
   </tr>
 </table>
 
@@ -89,10 +91,10 @@ me = {
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,vite,nodejs,express,mongodb,supabase,postgres,cpp,matlab,git,github,vercel,vscode&perline=8&theme=dark" alt="Tech stack" />
 </p>
 
-<p align="center"><b>Working on something cool? I'd love to hear about it.</b></p>
+<p align="center"><b>Hiring, or know of an opening? I'd love to hear from you.</b></p>
 
 <p align="center">
   <a href="mailto:hashmiivan@gmail.com"><img src="https://img.shields.io/badge/say_hi-A21517?style=for-the-badge" alt="Email me" /></a>
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=learning%20by%20building&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Learning by building" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=open%20to%20opportunities&fontSize=30&fontColor=FFFFFF&fontAlignY=52" width="100%" alt="Open to opportunities" /></p>
