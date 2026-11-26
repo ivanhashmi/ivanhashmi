@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/21%2B-ai_personas_in_yappi-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="21+ AI personas in Yappi" />
-  <img src="https://img.shields.io/badge/40%25-faster_search_queries-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="40% faster search queries in Bright Land" />
+  <img src="https://img.shields.io/badge/40%25-faster_search_queries-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="DSA in C++" />
   <img src="https://img.shields.io/badge/500-day_spanish_streak-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="500-day Spanish streak" />
 </p>
 
