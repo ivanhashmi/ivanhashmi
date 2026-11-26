@@ -20,7 +20,6 @@
 ```python
 me = {
     "does":      "Electrical Engineering student, full-stack + embedded projects",
-    "practices": "DSA in C++",
     "looking":   "Internships and entry-level software roles",
     "based":     "New Delhi, India",
     "degree":    "B.Tech at Jamia Millia Islamia (2027)",
