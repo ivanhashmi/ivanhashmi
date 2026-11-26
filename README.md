@@ -56,7 +56,7 @@ me = {
   <tr>
     <td width="50%" valign="top">
       <h3>🗣️ <a href="https://yappi-tau.vercel.app/">Yappi</a></h3>
-      <sub><b>multilingual ai tutor · vibe coded · live demo</b></sub>
+      <sub><b>multilingual ai tutor · live demo</b></sub>
       <p>Talk your way through Spanish, French, and Italian with 21+ AI characters (baristas, interviewers, tour guides), real-time grammar feedback, spaced-repetition flashcards, and voice practice. Built because Duolingo never let me actually speak.</p>
       <p><code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Gemini API</code> <code>Supabase</code> <code>Vercel</code></p>
       <a href="https://yappi-tau.vercel.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
@@ -64,7 +64,7 @@ me = {
     </td>
     <td width="50%" valign="top">
       <h3>🏠 <a href="https://bright-land.vercel.app/">Bright Land</a></h3>
-      <sub><b>full-stack real estate portal · built with ai assistance</b></sub>
+      <sub><b>full-stack real estate portal </b></sub>
       <p>Premium property portal with multi-tier pricing, media galleries, and fast filtered search (40% lower query latency using optimized Mongoose queries).</p>
       <p><code>Next.js</code> <code>React</code> <code>Tailwind</code> <code>MongoDB</code> <code>Vercel</code></p>
       <a href="https://bright-land.vercel.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
@@ -73,7 +73,7 @@ me = {
   <tr>
     <td width="50%" valign="top">
       <h3>📡 RFID Attendance System</h3>
-      <sub><b>iot + web · built with ai assistance</b></sub>
+      <sub><b>iot + web </b></sub>
       <p>ESP8266 and MFRC522 firmware that scans and logs a card in under a second, sends it to a Node.js backend, and shows records on an admin dashboard with filtering.</p>
       <p><code>C++</code> <code>ESP8266</code> <code>Node.js</code> <code>MongoDB</code></p>
     </td>
