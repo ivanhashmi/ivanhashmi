@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/21%2B-ai_personas_in_yappi-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="21+ AI personas in Yappi" />
+  <img src="https://img.shields.io/badge/B.Tech-class_of_2027-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="B.Tech, Class of 2027" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-dsa-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="DSA in C++" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/500-day_spanish_streak-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="500-day Spanish streak" />
+  <img src="https://img.shields.io/badge/Full_Stack-web_development-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="Full Stack Web Development" />
 </p>
 
 ## 🧬 about
