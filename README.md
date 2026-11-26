@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/21%2B-ai_personas_in_yappi-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="21+ AI personas in Yappi" />
-  <img src="https://img.shields.io/badge/40%25-faster_search_queries-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="DSA in C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-dsa_practice-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="DSA practice in C++" />
   <img src="https://img.shields.io/badge/500-day_spanish_streak-ECBDD8?style=for-the-badge&labelColor=0A0A0A" alt="500-day Spanish streak" />
 </p>
 
@@ -20,6 +20,7 @@
 ```python
 me = {
     "does":      "Electrical Engineering student, full-stack + embedded projects",
+    "practices": "DSA in C++",
     "looking":   "Internships and entry-level software roles",
     "based":     "New Delhi, India",
     "degree":    "B.Tech at Jamia Millia Islamia (2027)",
@@ -55,7 +56,7 @@ me = {
   <tr>
     <td width="50%" valign="top">
       <h3>🗣️ <a href="https://yappi-tau.vercel.app/">Yappi</a></h3>
-      <sub><b>multilingual ai tutor · live demo</b></sub>
+      <sub><b>multilingual ai tutor · vibe coded · live demo</b></sub>
       <p>Talk your way through Spanish, French, and Italian with 21+ AI characters (baristas, interviewers, tour guides), real-time grammar feedback, spaced-repetition flashcards, and voice practice. Built because Duolingo never let me actually speak.</p>
       <p><code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Gemini API</code> <code>Supabase</code> <code>Vercel</code></p>
       <a href="https://yappi-tau.vercel.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
@@ -63,7 +64,7 @@ me = {
     </td>
     <td width="50%" valign="top">
       <h3>🏠 <a href="https://bright-land.vercel.app/">Bright Land</a></h3>
-      <sub><b>full-stack real estate portal </b></sub>
+      <sub><b>full-stack real estate portal · built with ai assistance</b></sub>
       <p>Premium property portal with multi-tier pricing, media galleries, and fast filtered search (40% lower query latency using optimized Mongoose queries).</p>
       <p><code>Next.js</code> <code>React</code> <code>Tailwind</code> <code>MongoDB</code> <code>Vercel</code></p>
       <a href="https://bright-land.vercel.app/"><img src="https://img.shields.io/badge/try_the_demo-A21517?style=for-the-badge" alt="Try the demo" /></a>
@@ -72,7 +73,7 @@ me = {
   <tr>
     <td width="50%" valign="top">
       <h3>📡 RFID Attendance System</h3>
-      <sub><b>iot + web </b></sub>
+      <sub><b>iot + web · built with ai assistance</b></sub>
       <p>ESP8266 and MFRC522 firmware that scans and logs a card in under a second, sends it to a Node.js backend, and shows records on an admin dashboard with filtering.</p>
       <p><code>C++</code> <code>ESP8266</code> <code>Node.js</code> <code>MongoDB</code></p>
     </td>
